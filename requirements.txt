@@ -8,3 +8,4 @@ scikit-learn
 mlxtend
 requests
 seaborn
+geopandas
