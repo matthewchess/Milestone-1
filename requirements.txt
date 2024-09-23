@@ -9,3 +9,4 @@ mlxtend
 requests
 seaborn
 geopandas
+pre-commit
