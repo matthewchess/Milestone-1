@@ -10,7 +10,7 @@ This repository contains various Jupyter Notebooks designed for data analysis an
 
 - **fetch_data.ipynb**: This notebook contains scripts for fetching and collecting data from different sources, handling APIs, and ensuring the data is clean and ready for analysis.
 
-- **maps.ipynb**: This notebook focuses on generating geospatial visualizations and maps using the `geopandas` library to help with spatial data representation.
+- **maps.ipynb**: This notebook focuses on generating maps using the `geopandas` library.
 
 - **requirements.txt**: A list of Python dependencies required to run the notebooks in this repository. Make sure to install these packages using `pip install -r requirements.txt` before running the notebooks.
 
